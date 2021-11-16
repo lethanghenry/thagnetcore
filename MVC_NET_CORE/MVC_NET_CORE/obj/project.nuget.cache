@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jtx6agwy4OEN9+HpYyBo2/3l8F8AISPNKTKxk0ncA5ZkHYTFb2AZPi47cZpv8zs3Q9s9vvn9cpj6Nsg0m/WKXA==",
+  "success": false,
+  "projectFilePath": "D:\\2013\\thang_dep_trai\\Lam_Viec_DEVFAST\\MVC_NET_CORE\\MVC_NET_CORE\\MVC_NET_CORE\\MVC_NET_CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\entityframework\\6.1.3\\entityframework.6.1.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package EntityFrameworkCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Package source 1",
+      "libraryId": "EntityFrameworkCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.1.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

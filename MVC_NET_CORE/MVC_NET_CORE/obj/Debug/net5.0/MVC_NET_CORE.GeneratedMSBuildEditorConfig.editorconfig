@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = MVC_NET_CORE
+build_property.ProjectDir = D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\MVC_NET_CORE\MVC_NET_CORE\MVC_NET_CORE\
